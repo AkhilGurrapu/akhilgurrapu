@@ -29,7 +29,7 @@ In addition to my professional experience, I've completed several notable projec
 <h2>🌟 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akhilgurrapu">✉️ Contact Me</a> | <a href="https://www.linkedin.com/in/akhilgurrapu/">LinkedIn</a> | <a href="[github.com/akhilgurrapu](https://github.com/akhilgurrapu)">GitHub</a>
+  <a href="https://www.linkedin.com/in/akhilgurrapu">✉️ Contact Me</a> | <a href="https://www.linkedin.com/in/akhilgurrapu/">LinkedIn</a> | <a href="https://github.com/AkhilGurrapu">GitHub</a>
 </p>
 
 <h2>🎉Languages and Tools</h2>
@@ -37,14 +37,13 @@ In addition to my professional experience, I've completed several notable projec
 <p align="center">
   <img height="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
   <img height="40" src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL">
-    <img height="40" src="https://img.icons8.com/color/48/000000/java.png" alt="Java">
-  <img height="40" src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS">
+  <img height="40" src="https://img.icons8.com/?size=48&id=33039&format=png" alt="AWS">
   <img height="40" src="https://img.icons8.com/color/48/000000/r.png" alt="R">
   <img height="40" src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure">
-  <img height="40" src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" alt="Tableau">
+  <img height="40" src="https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png" alt="Tableau">
   <img height="40" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
-  <img height="40" src="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021" alt="PowerBI">
+  <img height="40" src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png" alt="PowerBI">
 </p>       
 
 
