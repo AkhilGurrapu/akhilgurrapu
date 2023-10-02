@@ -1,7 +1,56 @@
-## Hi There
+<h1 align="center">👋 Hey there, I'm AKHIL GURRAPU!</h1>
 
-### Hello! My name is Akhil Gurrapu and I'm a Graduate Assistant in Enrollment Department and Management Information Systems major at Southern Illinois University Edwardsville (SIUE). 
+<p align="center">
+  <strong> Data Analyst | Data Scientist | Business Analyst </strong>
+</p>
+<div align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" height="300"/>
+</div>
+<h2>✨ About Me</h2>
 
-I'm always searching for new opportunities in the future that can build on my current experiences, but I am currently, seeking to obtain particularly Software Engineering,
-Data Analyst, Data Scientist, Associate Project/Product Manager Fulltime roles where I can utilize my coding skills and project management skills to support projects that will meet business requirements. Willingness to learn new technologies to make products better. Excellent communication (both written & verbal), organization, analytical, team building/player with interpersonal 
-skills demonstrated through various college projects. Passionate about exploring new opportunities that come my way to help me grow as a professional
+<p>
+  I'm a highly skilled and motivated Data analyst/Data Scientist actively seeking full-time opportunities. With a strong educational background in Computer Management and Information Systems, complemented by hands-on experience in data analysis, data visualization, and cloud computing, I bring a unique blend of technical expertise and business acumen to the table.
+
+My professional experience includes roles as a Graduate Assistant (Data Analyst) at SIUE and as a Data Analyst at Tata Consultancy Services. In these roles, I've had the opportunity to lead the development of analytical dashboards and reports, conduct advanced statistical analyses, and craft compelling data visualizations using tools such as Microsoft Power BI, Tableau, Python, and SQL. I've also worked with cloud platforms like AWS and Azure, demonstrating my adaptability and proficiency in cloud computing.
+
+In addition to my professional experience, I've completed several notable projects, including developing a Python-based stock analysis application, conducting a comprehensive university enrollment analysis, and performing social media sentiment analysis. These projects showcase my ability to apply my skills to real-world scenarios and deliver meaningful results.
+</p>
+
+<h2>💻 Expertise</h2>
+
+<ul>
+  <li>🐍 Expert in Python Application Development: Skilled in creating Python applications with libraries like Pandas, NumPy, and Streamlit for financial analysis</li>
+  <li>📊 Proficient Data Analyst: Experienced in in-depth EDA, utilizing advanced Python and Pandas, uncovering complex data relationships, and deriving actionable insights for strategic decision-making.</li>
+  <li>🎨 Dynamic Visualization Specialist: Adept at transforming raw data into interactive Tableau dashboards, offering deep insights into sales landscapes, enhancing marketing strategies, and customer engagement.</li>
+  <li>📈 Statistical Analysis Guru: Proficient in end-to-end marketing project management, utilizing Python tools (Pandas, Matplotlib, Seaborn) for comprehensive data analysis</li>
+  <li>🌐 User-Centric App Developer: Skilled in crafting seamless web and mobile applications, integrating technologies like Flutter, AWS, and Google Cloud Firestore for intuitive interfaces and secure, reliable data storage.</li>
+</ul>
+
+<h2>🌟 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhilgurrapu">✉️ Contact Me</a> | <a href="https://www.linkedin.com/in/akhilgurrapu/">LinkedIn</a> | <a href="[github.com/akhilgurrapu](https://github.com/akhilgurrapu)">GitHub</a>
+</p>
+
+<h2>🎉Languages and Tools</h2>
+
+<p align="center">
+  <img height="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+  <img height="40" src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL">
+    <img height="40" src="https://img.icons8.com/color/48/000000/java.png" alt="Java">
+  <img height="40" src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS">
+  <img height="40" src="https://img.icons8.com/color/48/000000/r.png" alt="R">
+  <img height="40" src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure">
+  <img height="40" src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" alt="Tableau">
+  <img height="40" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
+  <img height="40" src="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021" alt="PowerBI">
+</p>       
+
+
+<h2> Visitors count 👀</h2>
+
+<p align="center">
+  Wow! You're visitor number <img src="https://profile-counter.glitch.me/sivabalanb/count.svg" alt="Visitor Count">. You deserve a virtual high-five! 🙌 Thanks for stopping by, and let's connect and collaborate on some amazing projects together! 💪
+</p>
+
