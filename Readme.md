@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm AKHIL GURRAPU!</h1>
+<h1 align="center">👋 Hey there, I'm AKHIL GURRAPU!</h1>
 
 <p align="center">
   <strong> Data Analyst | Data Scientist | Business Analyst </strong>
