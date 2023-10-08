@@ -29,7 +29,7 @@ In addition to my professional experience, I've completed several notable projec
 <h2>🌟 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akhilgurrapu">✉️ Contact Me</a> | <a href="https://www.linkedin.com/in/akhilgurrapu/">LinkedIn</a> | <a href="https://github.com/AkhilGurrapu">GitHub</a>
+  <a href="https://www.linkedin.com/in/akhilgurrapu">✉️ Contact Me</a> | <a href="https://www.linkedin.com/in/akhilgurrapu/">LinkedIn</a> | <a href="https://www.akhilgurrapu.com">AkhilGurrapu</a>
 </p>
 
 <h2>🎉Languages and Tools</h2>
