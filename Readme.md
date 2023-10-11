@@ -32,7 +32,7 @@ In addition to my professional experience, I've completed several notable projec
   <a href="https://www.linkedin.com/in/akhilgurrapu">✉️ Contact Me</a> | <a href="https://www.linkedin.com/in/akhilgurrapu/">LinkedIn</a> | <a href="https://www.akhilgurrapu.com">AkhilGurrapu</a>
 </p>
 
-<h2>🎉Languages and Tools</h2>
+<h2>🎉Languages and Tools used</h2>
 
 <p align="center">
   <img height="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
