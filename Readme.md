@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey There, I'm AKHIL GURRAPU!</h1>
 
 <p align="center">
-  <strong> Data Analyst | Data Scientist | Business Analyst </strong>
+  <strong> Data Analyst | Data Scientist | Data Engineer </strong>
 </p>
 <div align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" height="300"/>
