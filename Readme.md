@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey There, I'm AKHIL GURRAPU!</h1>
 
 <p align="center">
-  <strong> Data Analyst | Data Scientist | Data Engineer </strong>
+  <strong> Senior Data Analyst | Data Engineer | Data Scientist </strong>
 </p>
 <div align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" height="300"/>
@@ -9,9 +9,9 @@
 <h2>✨ About Me</h2>
 
 <p>
-  I'm a highly skilled and motivated Data analyst/Data Scientist actively seeking full-time opportunities. With a strong educational background in Computer Management and Information Systems, complemented by hands-on experience in data analysis, data visualization, and cloud computing, I bring a unique blend of technical expertise and business acumen to the table.
+  I'm a highly skilled and motivated Senior Data Analytics Engineer. With a strong educational background in Management and Information Systems (Master's), complemented by hands-on experience in data analytics, data engineering, data visualization, data warehousing, and cloud computing, I bring a unique blend of technical expertise and business acumen to the table.
 
-My professional experience includes roles as a Graduate Assistant (Data Analyst) at SIUE and as a Data Analyst at Tata Consultancy Services. In these roles, I've had the opportunity to lead the development of analytical dashboards and reports, conduct advanced statistical analyses, and craft compelling data visualizations using tools such as Microsoft Power BI, Tableau, Python, and SQL. I've also worked with cloud platforms like AWS and Azure, demonstrating my adaptability and proficiency in cloud computing.
+My professional experience includes roles as a Information System Administrator - Snowflake at RGA, Data Analytics Engineer at SIUE, Graduate Assistant (Data Analyst) at SIUE and as a Senior Data Engineer at Tata Consultancy Services. In these roles, I've had the opportunity to lead the development of analytical dashboards and reports, conduct advanced statistical analyses, and craft compelling data visualizations using tools such as Snowflake, Microsoft Fabric, Microsoft Power BI, Tableau, Python, and SQL. I've also worked with cloud platforms like AWS and Azure, demonstrating my adaptability and proficiency in cloud computing.
 
 In addition to my professional experience, I've completed several notable projects, including developing a Python-based stock analysis application, conducting a comprehensive university enrollment analysis, and performing social media sentiment analysis. These projects showcase my ability to apply my skills to real-world scenarios and deliver meaningful results.
 </p>
