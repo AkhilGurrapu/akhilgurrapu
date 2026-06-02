@@ -30,14 +30,6 @@ List<ProjectUtils> projectUtils = [
         'The CAPM Calculator is a powerful financial tool developed using Streamlit and Python that enables users to quickly and intuitively calculate expected returns for their investment portfolios ',
     links: 'https://capitalassestpricingmodel.streamlit.app/',
   ),
-   ProjectUtils(
-     banners: 'assets/imgs/DA1.png',
-    icons: 'assets/imgs/jupyter.png',
-    titles: 'Exploratory Data Analysis',
-    description:
-        'This project focuses on exploring a sales dataset from a supermarket retail chain and performing Exploratory Data Analysis (EDA) using Python and Pandas.',
-    links: 'https://akhilgurrapu.github.io/EDA_Python/',
-  ),
   ProjectUtils(
      banners: 'assets/imgs/Tableau1.png',
     icons: 'assets/imgs/Tableau.jpg',

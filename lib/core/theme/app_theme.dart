@@ -16,23 +16,21 @@ class ThemeColors {
       brightness: Brightness.light,
       fontFamily: 'Poppins',
       primaryColor: primaryColor,
-      backgroundColor: lightBackgroundColor,
       scaffoldBackgroundColor: lightBackgroundColor,
       visualDensity: VisualDensity.adaptivePlatformDensity,
       appBarTheme: AppBarTheme(
         backgroundColor: lightBackgroundColor,
       ),
-      textTheme: TextTheme(button: TextStyle(color: lightTextColor)));
+      textTheme: TextTheme(labelLarge: TextStyle(color: lightTextColor)));
 
   static final darkTheme = ThemeData(
     brightness: Brightness.dark,
     fontFamily: 'Poppins',
     primaryColor: primaryColor,
-    backgroundColor: darkBackgroundColor,
     scaffoldBackgroundColor: const Color(0xFF00040F),
     visualDensity: VisualDensity.adaptivePlatformDensity,
     textTheme: TextTheme(
-      button: TextStyle(color: darkTextColor),
+      labelLarge: TextStyle(color: darkTextColor),
     ),
     appBarTheme: AppBarTheme(
       backgroundColor: darkBackgroundColor,

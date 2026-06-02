@@ -1,6 +1,5 @@
 // CV
-const String resume =
-    'https://drive.google.com/file/d/1t5ww6D_NzZq04u_MHaYrZEfE7MZJO_Fo/view?usp=sharing';
+const String resume = 'https://www.akhilgurrapu.com/resume.pdf';
 
 // Github Link
 const String gitHub = 'https://github.com/akhilgurrapu';

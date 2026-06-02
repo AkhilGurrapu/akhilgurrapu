@@ -6,7 +6,6 @@ class NavBarUtils {
     'EXPERIENCE',
     'EDUCATION',
     'PROJECTS',
-    'BLOG',
     'CONTACT',
   ];
 
@@ -16,7 +15,6 @@ class NavBarUtils {
     Icons.work,
     Icons.build,
     Icons.settings,
-    Icons.article,
     Icons.contact_page,
   ];
 }

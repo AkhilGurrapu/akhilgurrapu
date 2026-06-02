@@ -3,9 +3,9 @@ String hellotag = '''Hi there, Welcome to My Space  ''';
 String yourname = "I'm Akhil Gurrapu,";
 // String hometitle2 = "A Mobile Application\nDeveloper";
 
-String animationtxt1 = " Data Analyst";
-String animationtxt2 = " Data Scientist";
-String animationtxt3 = " Software Engineer";
+String animationtxt1 = " Senior Snowflake Engineer";
+String animationtxt2 = " Data Platform Engineer";
+String animationtxt3 = " Data & AI Enthusiast";
 
 //
 String contactHeadding = "Let’s Connect!";
@@ -14,22 +14,19 @@ String contactHeadding = "Let’s Connect!";
 //   harnessing their potential to uncover valuable insights and create a meaningful impact.""";
 // //
 String miniDescription =
-    "With a strong background in Management Information Systems and a passion for Data Science, seeking impactful opportunities to utilize my data analytical and data science skills.";
+    "With deep expertise across the modern data stack — Snowflake platform engineering, Infrastructure as Code, CI/CD, and AI/ML — I build robust, scalable data platforms and am eager to leverage my skills in impactful roles.";
 
 String servicesSubHeading =
-    "I am an experienced professional skilled in data analysis, Statistics, Data Science, reporting, and development. I have a track record of creating dynamic reports using Microsoft Power BI, Tableau, Qlik and AWS, providing insights into enrollment and admissions metrics. Additionally,My expertise includes data visualization, SQL, Apex, Python, and Java programming, making me a valuable asset for data-driven insights and system optimization.";
+    "Senior Snowflake Engineer with 7 years of experience architecting and delivering robust, scalable enterprise data platforms across the modern data stack. Specialized in administering Snowflake from the ground up — RBAC and access governance, platform infrastructure, Infrastructure as Code with Terraform, Jenkins-based CI/CD, performance tuning, and FinOps cost optimization. Experienced building end-to-end Microsoft Fabric solutions and highly automated data workflows using dbt, Flyway, Jenkins, and Python, and integrating Generative AI (LLMs, RAG, Agentic Workflows) and predictive modeling with Snowpark ML to drive business value.";
 //
-String educationSubHeading = 
-    "I am a graduate student at Southern Illinois University Edwardsville (SIUE) pursuing a Master of Science in Management Information Systems. I have a Bachelor of Technology in Electrical and Electronics Engineering from Kakatiya Institute of Technology and Science (KITS), Warangal, India.";
+String educationSubHeading =
+    "I hold a Master of Science in Computer Management and Information Systems from Southern Illinois University Edwardsville (SIUE), and a Bachelor of Technology in Electrical and Electronics Engineering from Kakatiya Institute of Technology and Science (KITS), Warangal, India.";
 
 String protfolioSubHeading =
     "Throughout my journey as a Data Analyst, I have crafted impactful digital solutions for businesses and consumers, harnessing the power of data to drive informed decision-making and optimize performance.";
 
-String blogSubHeading =
-    "Decoding Data: Adventures in Data Engineering and Data Science Simplified.";
-
 const String aboutMeHeadline =
-    'I\'m Akhil Gurrapu, a passionate Data Analyst and dedicated Data Enthusiast';
+    'I\'m Akhil Gurrapu, a passionate Senior Snowflake Engineer building robust, scalable enterprise data platforms across the modern data stack.';
 
 const String aboutMeDetail =
-    "I\'m Hello! My name is Akhil Gurrapu and I'm a Graduate Assistant (Data Analyst) in Enrollment Department and Management Information Systems major at Southern Illinois University Edwardsville (SIUE)";
+    "Hello! My name is Akhil Gurrapu and I'm a Senior Snowflake Engineer on the enterprise Platform Team at Reinsurance Group of America (RGA), specializing in Snowflake administration, Infrastructure as Code, CI/CD, and AI/ML.";

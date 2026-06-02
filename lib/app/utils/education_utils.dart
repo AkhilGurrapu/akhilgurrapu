@@ -16,18 +16,18 @@ class EducationUtils {
 List<EducationUtils> educationUtils = [
   EducationUtils(
     name: 'Southern Illinois University Edwardsville',
-    title: 'Master of Science in Management Information Systems (with a Specialization in Project Management)',
+    title: 'Master of Science in Computer Management and Information Systems',
     icon: 'assets/imgs/siue.png',
     description:
-        "Grade: 3.88",
-    tool: ['Managing the Cloud', 'Software Systems Design', 'Database Design', 'Project Management', 'ERP', 'Quantitative Analysis', 'Information Systems & Technology'],
+        "Jan 2022 – Dec 2023  ·  Grade: 3.88  ·  Member, Entrepreneurship Club at SIUE",
+    tool: ['Business Intelligence & Analytics', 'Managing the Cloud', 'Database Design', 'Software Systems Design', 'Enterprise Resource Planning (SAP)', 'Project Management', 'Quantitative Analysis', 'Information Systems & Technology'],
   ),
   EducationUtils(
     name: 'Kakatiya Institute of Technology and Science',
     title: 'Bachelor of Technology in Electrical and Electronics Engineering',
     icon: 'assets/imgs/kitsw.jpeg',
     description:
-        "Grade: 8.12",
-    tool: ['Programming in C', 'Object Oriented Programming through C++', 'Entrepreneurship Development', 'Data Structures', 'AI Technologies', 'Smart Electric Grid'],
+        "2015 – 2019  ·  Grade: 8.12  ·  EEE Association Event Manager · Sumshodini Technical Event Organiser",
+    tool: ['Programming in C', 'Object Oriented Programming (C++)', 'Data Structures', 'Entrepreneurship Development', 'AI Technologies in Electrical Engineering', 'Smart Electric Grid'],
   ),
 ];
